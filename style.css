@@ -1,0 +1,38 @@
+body
+{
+    pointer-events:none;
+    background-size: inherit;
+}
+.h_3
+{
+    font-size: 25px;
+    width: 90%;
+    white-space: pre-wrap;
+    box-shadow: 5px 5px 10px red, 10px 10px  10px blue, 15px 15px 10px  green;
+}
+.note
+{
+    color: black;
+    font-size: 15px;
+    font-family:verdana;
+}
+.song_name
+{
+    font-size: 25px;
+}
+canvas
+{
+    border: 10px groove white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightblue;
+    margin-top: 300px;
+}
+#song
+{
+    font-size: 30px;
+    background-color: lightpink;
+    box-shadow: 5px 5px 2px grey;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
